@@ -5,17 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Techs-who-can-t-code/Mira2D/Content/Blueprints/TeleportWall.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/3/MR/NTAK42T6DS2QBKRFR2NB96.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/D/7N/N7FQJ8MHT22GMQS3TQVID6.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
-				"D:/Techs-who-can-t-code/Mira2D/Content/Character/AnimSequences/Walk.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/Character/Sprites/Down/FB_Red_Walk_Down.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/Character/BP_TopDownChar.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/Character/Input/IMC_TopDown.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/9/NA/RYZ1TKPSSVNSPE50TI4R3D.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/3/Y1/LIUU3T4CD5C9EMWFHTY237.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/7/8P/EP9PNFAU49U832B6OTI525.uasset"
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/7/MV/45YPY0MMCG1CYMVREHRU0Q.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/Buildings.umap"
 			]
 		}
 	]
