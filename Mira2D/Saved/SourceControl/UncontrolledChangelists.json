@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/B/43/6KTFG5ADFR09H7AAMATIA5.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/7/8P/EP9PNFAU49U832B6OTI525.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
@@ -177,6 +178,22 @@
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/B/JE/7ZYZWXV17WV0HZLCRL1NM9.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/1/WG/XOSMSIL3CS9K1T5SQCF69Z.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/2/8I/P20VHUGH8DIXAF0K2EDU2L.uasset"
+=======
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Character/BP_TopDownChar.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/9/NA/RYZ1TKPSSVNSPE50TI4R3D.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/C/4K/E2SL2O04GABQ5TRRFJRSL7.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/C/DV/WCHWC1VTL5VJ7GJGCG0LZD.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/E/HB/3UZYAH75DBA1KK77QX4HGW.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/MainMenu.umap",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/WBP_Play.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/IMAGE/Screenshot_2025-03-29_193351.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/WBP/WBP_InfoPoint.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/IMAGE/Screenshot_2025-03-29_200051.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/BPI_Inventory.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/IMAGE/Screenshot_2025-03-29_145857.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/4/EP/38Z6WWGQT7YJ7R9CDM3R27.uasset"
+>>>>>>> a79db03cb636a82e325bdaec5c66f2a1616d1de6
 			]
 		}
 	]
