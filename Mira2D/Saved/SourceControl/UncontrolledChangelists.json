@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Repositories/Techs-who-can-t-code/Mira2D/Content/Character/BP_TopDownChar.uasset",
 				"C:/Repositories/Techs-who-can-t-code/Mira2D/Content/Character/Sprites/T_Red.uasset",
 				"C:/Repositories/Techs-who-can-t-code/Mira2D/Content/Character/Sprites/T_Red_Sprite_19.uasset",
@@ -155,6 +156,13 @@
 				"D:/Techs-who-can-t-code/Mira2D/Content/Assets/CanedFood/ChickpeasTomatoes/T_Roughness_Canned_Redpepper_Mat.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/9/7S/ZFICYEE21TIK2D5EXJ25HN.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/2/88/AY9UNIJMRJ6IKNH7FS9EFV.uasset",
+=======
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/WBP/WBP_ChoosingMenu.uasset",
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Icons/chair_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.uasset",
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Icons/grocery_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.uasset",
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Icons/cleaning_services_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.uasset",
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Icons/kettle_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.uasset",
+>>>>>>> 3a95dc00d6ba49bcc4fc3b0323dfbdbad7272d17
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/7/MV/45YPY0MMCG1CYMVREHRU0Q.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/8/EM/4KI0YAIDWIXHLK8L1ANNO8.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/3/HX/YA6H3WD0JMX79ZC0V6EO2L.uasset",
