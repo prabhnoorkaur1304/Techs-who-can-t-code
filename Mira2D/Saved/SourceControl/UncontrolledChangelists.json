@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
 				"D:/Techs-who-can-t-code/Mira2D/Content/Buildings_HLOD0_Instancing.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/B/N0/M4O2CYTNRKGT0FHIHAS9Q6.uasset",
@@ -1391,6 +1392,11 @@
 				"D:/Techs-who-can-t-code/Mira2D/Content/ConvenienceStore/windowGlass_tga.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/ConvenienceStore/windowMount.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/ConvenienceStore/windowMount_jpg.uasset",
+=======
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/WBP_Play.uasset",
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Testing.umap",
+				"C:/Users/aniam/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Blueprints/Bp_MenuGamemode.uasset",
+>>>>>>> 3604e43aeb9adaeacf2d4642f4c6286af7593db0
 				"C:/Repositories/Techs-who-can-t-code/Mira2D/Content/Character/T_Red.uasset",
 				"C:/Repositories/Techs-who-can-t-code/Mira2D/Content/Character/T_Red_Sprite_0.uasset",
 				"C:/Repositories/Techs-who-can-t-code/Mira2D/Content/Character/T_Red_Sprite_1.uasset",
