@@ -5,15 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"D:/Techs-who-can-t-code/Mira2D/Content/Assets/CanedFood/ChickpeasTomatoes/SM_Canned.uasset",
-				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/A/TX/G4V9099IBSGTGP5PZAWD96.uasset"
-=======
-				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
-				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/WBP/WBP_List.uasset",
-				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Character/BP_TopDownChar.uasset",
-				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/IMAGE/Grey_And_White_Torn_Paper_To-Do_List_Document.uasset"
->>>>>>> ab6072a7b9c0e60332914e955e0577849b5b1210
+				"D:/Techs-who-can-t-code/Mira2D/Content/DestroyCannedTomato.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
+				"D:/Techs-who-can-t-code/Mira2D/Content/Character/BP_TopDownChar.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/A/TX/G4V9099IBSGTGP5PZAWD96.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/4/LM/JSGM69WQ9D0O55SNKWO9RK.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/F/43/PVM5FWCBUERTMQMX0VUWNC.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/7/FN/3H9T9EC1NGJ4KGC4WNHI5V.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/D/5F/QBQP4VPHFVTBXXQJNWT44B.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/NewBlueprint.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/DestroyWater.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/7/W4/P2ICK0K1U981ETB8VFF0HB.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/2/O9/SA1OXXAH24TWE62US1LJZI.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/9/QC/Q1YX7T5UKZSQ5FEXA9JDWP.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/DestroyChickPeas.uasset",
+				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/3/Y1/LIUU3T4CD5C9EMWFHTY237.uasset"
 			]
 		}
 	]
