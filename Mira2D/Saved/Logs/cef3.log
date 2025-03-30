@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 [0329/171538.614:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
 [0329/171541.603:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0329/171733.015:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+[0330/083236.440:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0330/083236.441:ERROR:entry_impl.cc(1075)] No file for c1030000
+[0330/083236.441:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.441:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.441:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:ERROR:entry_impl.cc(1075)] No file for c1030002
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:ERROR:entry_impl.cc(1075)] No file for c1030004
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083236.442:WARNING:storage_block-inl.h(146)] Failed data load.
+[0330/083239.442:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0330/083433.480:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> ca73cc30780d86ccd31909dc990c2f256ad32218
