@@ -5,8 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Techs-who-can-t-code/Mira2D/Content/Assets/CanedFood/ChickpeasTomatoes/SM_Canned.uasset",
 				"D:/Techs-who-can-t-code/Mira2D/Content/__ExternalActors__/Buildings/A/TX/G4V9099IBSGTGP5PZAWD96.uasset"
+=======
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Buildings.umap",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/WBP/WBP_List.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/Character/BP_TopDownChar.uasset",
+				"C:/Users/celin/Documents/GitHub/Techs-who-can-t-code/Mira2D/Content/IMAGE/Grey_And_White_Torn_Paper_To-Do_List_Document.uasset"
+>>>>>>> ab6072a7b9c0e60332914e955e0577849b5b1210
 			]
 		}
 	]
